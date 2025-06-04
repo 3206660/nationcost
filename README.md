@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Tanmay — a backend developer passionate about building scalable applications and automation tools.  <br>I love working with Python, FastAPI, and APIs.  <br><br>Built and scaled a Discord bot with 50K+ users  <br>Experienced with MySQL, Git, GitHub, and JSON  <br>Enjoy automating tasks and integrating third-party services  <br>Currently learning more about scalable backend architectures  <br>Open to collaboration and cool projects<br>
+backend developer passionate about building scalable applications and automation tools.  <br>I love working with Python, FastAPI, and APIs.  <br><br>Built and scaled a Discord bot with 50K+ users  <br>Experienced with MySQL, Git, GitHub, and JSON  <br>Enjoy automating tasks and integrating third-party services  <br>Currently learning more about scalable backend architectures  <br>Open to collaboration and cool projects<br>
 
 
 # 💻 Tech Stack:
